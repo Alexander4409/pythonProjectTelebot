@@ -1,0 +1,9 @@
+{
+    "users": [
+        {"id": 1572286222, "is_admin": true},
+        {"id": 1274013739, "is_admin": false},
+        {"id": 505680140, "is_admin": false},
+        {"id": 5318944470, "is_admin": false}
+    ]
+}
+
